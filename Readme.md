@@ -222,6 +222,8 @@ they will be documented with the platform.
 ## Socionext
 * [SynQuacer](Platform/Socionext/DeveloperBox)
 
+## Rk3399Pkg
+* [Rk3399Pkg](Platform/Rockchip/Rk3399Pkg)
 # Maintainers
 
 See [Maintainers.txt](Maintainers.txt).
